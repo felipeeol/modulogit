@@ -1,4 +1,4 @@
-Meu primeiro sistema no GIT
+Alterei o nome git master
 
 Alteração no readme para descrever melhor meu sistema
 
